@@ -86,7 +86,6 @@ public class Main {
             e.printStackTrace();
           }
           System.out.println("Saved to Text File");
-          break;
       }else{
         System.out.println("Invalid Input");
       }
